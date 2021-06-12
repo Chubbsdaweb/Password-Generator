@@ -17,7 +17,7 @@ SO THAT I can create a strong password that provides greater security
 ## 
 
 ```bash
-https://chubbsdaweb.github.io/Password-Generato/
+https://chubbsdaweb.github.io/Password-Generator/
 ```
 
 ## ## Made with 
